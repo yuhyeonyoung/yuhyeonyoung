@@ -25,6 +25,6 @@
 <br />
 <hr>
 
-##  My introduction 🎈
+##  Study log 🎈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyeonyoung&layout=compact)](https://github.com/yuhyeonyoung/github-readme-stats)
 
