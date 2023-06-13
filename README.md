@@ -1,6 +1,14 @@
-### 안녕하세요 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20🙋‍♂️&fontSize=90&animation=fadeIn&fontAlignY=38&desc=세명대학교%20정보통신학부에%20재학중인%20유현영의%20Github%20공간입니다!!&descAlignY=51&descAlign=62)  
+<br />
+<h2> My programming in study 💻🖱 </h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuhyeonyoung&count_bg=%23F8DBBB&title_bg=%23EAA4A8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</a>
+<a href = "https://www.w3schools.com/js/default.asp"><img alt="CSS3" src="https://img.shields.io/badge/JavaScriipt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+</a>
+<a href = "https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff" />
+</a>
+<a href = "https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white" />
+</a>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -13,3 +21,10 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+<br />
+<hr>
+
+## 🍀 ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyeonyoung&layout=compact)](https://github.com/yuhyeonyoung/github-readme-stats)
+
