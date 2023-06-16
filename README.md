@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20🙋‍♂️&fontSize=90&animation=fadeIn&fontAlignY=38&desc=세명대학교%20정보통신학부에%20재학중인%20유현영의%20Github%20공간입니다!!&descAlignY=51&descAlign=62)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20🙋‍♂️&fontSize=80&animation=fadeIn&fontAlignY=38&desc=세명대학교%20정보통신학부에%20재학중인%20유현영의%20Github%20공간입니다!!&descAlignY=60&descAlign=56)  
 <br />
 <h2> My programming in study 💻🖱 </h2>
 
